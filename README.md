@@ -10,6 +10,8 @@ If you know of resources that would be great to list here, just create a [pull r
 
 ### Middleware
 
-### Examples/Templates
+- [oak_middleware](https://oakserver.github.io/middleware/) a collection of maintained middleware for oak.
+
+### Examples/Templates/Boilerplates
 
 ### Tutorials
