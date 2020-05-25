@@ -11,6 +11,8 @@ If you know of resources that would be great to list here, just create a [pull r
 ### Middleware
 
 - [oak_middleware](https://oakserver.github.io/middleware/) a collection of maintained middleware for oak.
+- [error handling & logging](https://github.com/halvardssm/oak-middleware-error-logger) a error handling middleware with logger.
+- [jwt](https://github.com/halvardssm/oak-middleware-jwt) a JWT validation middleware.
 
 ### Examples/Templates/Boilerplates
 
