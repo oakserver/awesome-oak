@@ -14,4 +14,6 @@ If you know of resources that would be great to list here, just create a [pull r
 
 ### Examples/Templates/Boilerplates
 
+- [deno_crud_jwt](https://github.com/22mahmoud/deno_crud_jwt) 🦕 basic jwt implementation with CRUD operations using oak + postgres
+
 ### Tutorials
