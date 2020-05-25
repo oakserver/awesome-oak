@@ -11,6 +11,8 @@ If you know of resources that would be great to list here, just create a [pull r
 ### Middleware
 
 - [oak_middleware](https://oakserver.github.io/middleware/) a collection of maintained middleware for oak.
+- [view-engine](https://github.com/deligenius/view-engine) 🚀a Template View Engine for Deno frameworks
+- [multiparser](https://github.com/deligenius/multiparser) a Deno module for parsing multipart/form-data
 
 ### Examples/Templates/Boilerplates
 
