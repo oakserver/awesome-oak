@@ -15,6 +15,9 @@ If you know of resources that would be great to list here, just create a [pull r
 - [multiparser](https://github.com/deligenius/multiparser) a Deno module for parsing multipart/form-data
 - [error handling & logging](https://github.com/halvardssm/oak-middleware-error-logger) a error handling middleware with logger.
 - [jwt](https://github.com/halvardssm/oak-middleware-jwt) a JWT validation middleware.
+- [session](https://github.com/denjucks/session) a session middleware for oak with Redis support.
+- [organ](https://github.com/denjucks/organ) a logging middleware based on the morgan middleware from ExpressJS.
+- [snelm](https://github.com/denjucks/snelm) a security middleware ported from the helmet middleware from ExpressJS.
 
 ### Examples/Templates/Boilerplates
 
