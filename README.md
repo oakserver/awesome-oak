@@ -23,4 +23,8 @@ If you know of resources that would be great to list here, just create a [pull r
 
 - [deno_crud_jwt](https://github.com/22mahmoud/deno_crud_jwt) 🦕 basic jwt implementation with CRUD operations using oak + postgres
 
+### Testing
+
+- [superoak](https://github.com/asos-craigmorten/superoak) HTTP assertions for Oak made easy via SuperDeno.
+
 ### Tutorials
