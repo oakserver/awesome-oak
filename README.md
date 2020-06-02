@@ -11,8 +11,8 @@ If you know of resources that would be great to list here, just create a [pull r
 ### Middleware
 
 - [oak_middleware](https://oakserver.github.io/middleware/) a collection of maintained middleware for oak.
-- [view-engine](https://github.com/deligenius/view-engine) 🚀a Template View Engine for Deno frameworks
-- [multiparser](https://github.com/deligenius/multiparser) a Deno module for parsing multipart/form-data
+- [view-engine](https://github.com/deligenius/view-engine) 🚀a Template View Engine for Deno frameworks.
+- [multiparser](https://github.com/deligenius/multiparser) a Deno module for parsing multipart/form-data.
 - [error handling & logging](https://github.com/halvardssm/oak-middleware-error-logger) a error handling middleware with logger.
 - [jwt](https://github.com/halvardssm/oak-middleware-jwt) a JWT validation middleware.
 - [session](https://github.com/denjucks/session) a session middleware for oak with Redis support.
@@ -22,6 +22,10 @@ If you know of resources that would be great to list here, just create a [pull r
 
 ### Examples/Templates/Boilerplates
 
-- [deno_crud_jwt](https://github.com/22mahmoud/deno_crud_jwt) 🦕 basic jwt implementation with CRUD operations using oak + postgres
+- [deno_crud_jwt](https://github.com/22mahmoud/deno_crud_jwt) 🦕 basic jwt implementation with CRUD operations using oak + postgres.
+
+### Testing
+
+- [superoak](https://github.com/asos-craigmorten/superoak) HTTP assertions for Oak made easy via SuperDeno.
 
 ### Tutorials
