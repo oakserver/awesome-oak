@@ -18,6 +18,7 @@ If you know of resources that would be great to list here, just create a [pull r
 - [session](https://github.com/denjucks/session) a session middleware for oak with Redis support.
 - [organ](https://github.com/denjucks/organ) a logging middleware based on the morgan middleware from ExpressJS.
 - [snelm](https://github.com/denjucks/snelm) a security middleware ported from the helmet middleware from ExpressJS.
+- [validator](https://github.com/halvardssm/oak-middleware-validator) a validator for body content and url parameters.
 
 ### Examples/Templates/Boilerplates
 
