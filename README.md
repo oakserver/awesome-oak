@@ -24,6 +24,7 @@ If you know of resources that would be great to list here, just create a [pull r
 ### Examples/Templates/Boilerplates
 
 - [deno_crud_jwt](https://github.com/22mahmoud/deno_crud_jwt) 🦕 basic jwt implementation with CRUD operations using oak + postgres.
+- [deno-api-starter-oak](https://github.com/asad-mlbd/deno-api-starter-oak) Standard RESTful API project setup & examples with docker, MySQL, JWT, Swagger open API, DB migration, validation, and route guards.
 
 ### Testing
 
