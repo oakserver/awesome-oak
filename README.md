@@ -20,6 +20,7 @@ If you know of resources that would be great to list here, just create a [pull r
 - [snelm](https://github.com/denjucks/snelm) a security middleware ported from the helmet middleware from ExpressJS.
 - [validator](https://github.com/halvardssm/oak-middleware-validator) a validator for body content and url parameters.
 - [upload](https://github.com/hviana/Upload-middleware-for-Oak-Deno-framework) perform uploads, organize uploads to avoid file system problems and create dirs if not exists, perform validations and optimizes RAM usage when uploading large files using Deno standard libraries.
+- [oak-http-proxy](https://github.com/asos-craigmorten/oak-http-proxy) a proxy middleware for oak.
 
 ### Examples/Templates/Boilerplates
 
