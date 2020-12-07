@@ -33,3 +33,5 @@ If you know of resources that would be great to list here, just create a [pull r
 - [superoak](https://github.com/asos-craigmorten/superoak) HTTP assertions for Oak made easy via SuperDeno.
 
 ### Tutorials
+
+- [FreeCodeCamp](https://www.freecodecamp.org/news/create-a-todo-api-in-deno-written-by-a-guy-coming-from-node/) Todo API tutorial using Deno and Oak
