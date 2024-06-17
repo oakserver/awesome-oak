@@ -30,7 +30,7 @@ If you know of resources that would be great to list here, just create a [pull r
 
 - [deno_crud_jwt](https://github.com/22mahmoud/deno_crud_jwt) 🦕 basic jwt implementation with CRUD operations using oak + postgres.
 - [deno-api-starter-oak](https://github.com/asad-mlbd/deno-api-starter-oak) Standard RESTful API project setup & examples with docker, MySQL, JWT, Swagger open API, DB migration, validation, and route guards.
-- [oak-routing-ctrl-cloudflare-workder](https://github.com/Thesephi/oak-routing-ctrl-cloudflare-worker) starter template to develop a Cloudflare Worker application with `oak` and `oak-routing-ctrl` libraries
+- [oak-routing-ctrl-cloudflare-worker](https://github.com/Thesephi/oak-routing-ctrl-cloudflare-worker) starter template to develop a Cloudflare Worker application with `oak` and `oak-routing-ctrl` libraries
 
 ### Testing
 
