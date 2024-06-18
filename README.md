@@ -25,6 +25,7 @@ If you know of resources that would be great to list here, just create a [pull r
 - [serverless_oak](https://deno.land/x/serverless_oak) A handler for mapping AWS Api Gateway and Lambda to oak.
 - [oak-channels](https://github.com/ericls/oak-channels) A helper for writing real world websocket applications with group messaging support.
 - [oak-routing-ctrl](https://github.com/Thesephi/oak-routing-ctrl) routing-controllers -like library, providing TypeScript Decorators for easy scaffolding API projects
+- [zoic](https://github.com/oslabs-beta/zoic) a caching middleware with options for an in-memory or Redis cache.
 
 ### Examples/Templates/Boilerplates
 
