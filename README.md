@@ -24,11 +24,13 @@ If you know of resources that would be great to list here, just create a [pull r
 - [oak-logger](https://deno.land/x/oak_logger) An exteremely easy  and rich oak logger that color codes! 
 - [serverless_oak](https://deno.land/x/serverless_oak) A handler for mapping AWS Api Gateway and Lambda to oak.
 - [oak-channels](https://github.com/ericls/oak-channels) A helper for writing real world websocket applications with group messaging support.
+- [oak-routing-ctrl](https://github.com/Thesephi/oak-routing-ctrl) routing-controllers -like library, providing TypeScript Decorators for easy scaffolding API projects
 
 ### Examples/Templates/Boilerplates
 
 - [deno_crud_jwt](https://github.com/22mahmoud/deno_crud_jwt) 🦕 basic jwt implementation with CRUD operations using oak + postgres.
 - [deno-api-starter-oak](https://github.com/asad-mlbd/deno-api-starter-oak) Standard RESTful API project setup & examples with docker, MySQL, JWT, Swagger open API, DB migration, validation, and route guards.
+- [oak-routing-ctrl-cloudflare-worker](https://github.com/Thesephi/oak-routing-ctrl-cloudflare-worker) starter template to develop a Cloudflare Worker application with `oak` and `oak-routing-ctrl` libraries
 
 ### Testing
 
