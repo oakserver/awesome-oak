@@ -19,6 +19,7 @@ If you know of resources that would be great to list here, just create a [pull r
 - [organ](https://github.com/denjucks/organ) a logging middleware based on the morgan middleware from ExpressJS.
 - [snelm]([https://github.com/denjucks/snelm](https://github.com/zer0tonin/snelm)) a security middleware ported from the helmet middleware from ExpressJS.
 - [validator](https://github.com/halvardssm/oak-middleware-validator) a validator for body content and url parameters.
+- [validator4oak](https://github.com/petruki/validator4oak) a validator and sanitizer middleware for oak inspired by express-validator.
 - [upload](https://github.com/hviana/Upload-middleware-for-Oak-Deno-framework) perform uploads, organize uploads to avoid file system problems and create dirs if not exists, perform validations and optimizes RAM usage when uploading large files using Deno standard libraries.
 - [oak-http-proxy](https://github.com/asos-craigmorten/oak-http-proxy) a proxy middleware for oak.
 - [oak-logger](https://deno.land/x/oak_logger) An exteremely easy  and rich oak logger that color codes! 
